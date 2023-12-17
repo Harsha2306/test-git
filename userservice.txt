@@ -4,3 +4,5 @@ get the user data
 create an avatar for an user 
 
 create
+
+test for feature 1
