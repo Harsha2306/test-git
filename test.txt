@@ -1,3 +1,5 @@
 harsha revanth !! manchikanti
 take input from user
 add the values
+
+submit data to db
